@@ -1,0 +1,72 @@
+Birth of a Universe
+Patrick sat at his work terminal, clearly confused. He and a colleague had stumbled across a failed test case for the quantum computer that was failing. What should have been a quick punt to mathematicians and low-temperature physics engineers had snowballed into a colossal failure. As with many start-up companies in the technology scene, successes are shared by everyone but failures are attributed to a single person. He didn’t want to be that person.
+
+One of the mathematicians replied to the latest test case report. Five hundred identical test runs - only a few percent found the correct solution. When the failure was initially logged, the failure rate was only five percent. Now, thousands of test runs later, the failures had increased drastically. “This is ridiculous”, he thought. But, someone, somewhere in management would want an explanation. He unplugged his laptop, picked it up from his cluttered desk and made his way upstairs.
+
+Like his floor, the mathematicians prized clutter and scribbles on whiteboards over organisation. At least the piles of paper and coffee cups feel like home, he thought. Better than the sterile, organised sales area, complete with motivational posters. That felt like a different world entirely to him. He found the mathematician who had filed the test case sitting in the common area, drinking coffee. “Hi Sonia,” he started as he walked over to see her, “Do you have a minute?”
+
+She briefly looked up from her notepad. “Kinda. What’s up?”
+
+“I just wanted some insight into this failing simulation.”
+
+She looked up again. “Oh, one of the failing large number factorization problems? Yeah, that one is a real mystery.”
+
+Patrick knew this - it was partially his mystery, and he wanted it solved. “Well, what were you looking for in this test run?”
+
+She paused for a moment to think. “I was hoping that we’d find some pattern in the failures. Normally when we have a computational test fail, there’s some kind of external noise induced from some physical issue with that particular simulation setup. There’s no obvious noise accumulating in this simulation. It’s just failing. A handful of us have tried to identify some other underlying correlation or pattern, but nothing yet has shown up.”
+
+Progress, he thought. He was frantically transcribing all of this as she spoke. He chose his next question carefully. “What kind of correlations were you looking for?” He hoped that this would set off another useful flow of thought for him to write down.
+
+“Ah, well, a bunch of us asked some of the hardware people about possible temporal causes. Like fluctuations in temperature, or air pressure, or tiny changes in the electrical power sources. They should’ve all been carefully eliminated in the design, but we’ve been surprised by these things before. We even looked at whether there were vibrations from cars driving by, or micro-tremors from people walking around the building. That was fun.” She grinned, for the first time in the conversation.
+
+Yup, he thought, still frantically typing. Those hardware engineers are bright, but they frequently do bump into the realm of unexpected behaviors. If this was all easy stuff that was done before, there wouldn’t be a need for a startup to do it all again. Well, unless you were Apple. It sounded like she had fun working on some part of the problem solving. Lucky her.
+
+“Ok,” he asked, “well, what’s next?”
+
+“We’re not sure. Hm, I’m out of coffee. Mind if I make some?”
+
+“Nope. Go ahead.”
+
+She wandered over to the coffee machine and started poking at it. “Would you like some?”
+
+“No.” He was on coffee number six for the day. Seven would just make his insomnia worse. “But thanks.” The machine started making brewing sounds. He stared at the machine. “Hey, did you check whether it correlated with people making coffee?” Sonia burst out laughing. “You know what, I think someone actually did. And even when people were drinking coffee during the day.”
+
+Patrick laughed. Well, at least that may have relaxed her a little more. He tried again. “So what’s next?”
+
+“We’re not really sure.” She brought back her coffee to the table. “We’ve been building various models to try and describe it but we’re at a loss. There’s no correlation with anything that we can dream up that may affect it. I think we may need to stop attacking it like there’s some known physical external problem and instead wonder whether there’s something about the physics we don’t quite have right.”
+
+That seemed like a big stretch for just one test case. There had been decades of research into quantum computers. Everyone believed the bulk of the problems now were engineering, not with the physics side of things. That would possibly kill everything. “Ok, wait. This is just from one particular randomly generated factorizing problem. Have you found this in any other tests?”
+
+“Not so far. The test rigs have tried factorizing about a hundred million other large numbers. Only this one causes a problem. That’s why we’re a little excited.”
+
+Excited, he thought. Yes, you may be, but I’m the one being asked uncomfortable questions from management. Like will this affect customer testing. “Ok, so shall we kick it to the physics team?”
+
+“Sure. But we should also throw it at a few others to see what they think. Maybe try some of the machine learning folk. They may have something that finds a pattern we haven’t.”
+
+Patrick thought about the machine learning team. They’re smart people, but they’re just as overworked as everyone else. They likely don’t want to be involved in what is almost certainly just another hardware problem. But they’ve been useful in diagnosing things in the past. Often, something that looked like noise had some hidden pattern found by one of the various deep learning models and they’d kick out something useful for other teams to diagnose. Once they found it often lined up with whenever the backup catering company delivered - one of their delivery trucks had some old and busted ignition system that generated enough EM noise to confuse things. “Ok,” he agreed, “let’s take it to the learning team and see what they come up with.”
+
+—
+
+“You should come in. Now.” That wasn’t a very good sign. Normally when something is too important to do via Hangouts, it was something involving people being fired. He had just pulled in and bumped into Sonia in the hall. “What’s going on?” she asked.
+
+“I’ve no idea. I was just told to come in.”
+
+They walked into the conference room, which sat half of the machine learning team, a couple of the physicists and three people neither of them recognised. Sonia repeated her question. “Ok, what’s going on?”
+
+“You two found this?” It was from one of the three she didn’t recognise.
+
+“Yes, I did.” she said. “Who are you?”
+
+“I’m Victoria, from the Linguistics team. We got looped in on this a few days ago after the machine learning team found some curious results.” She clicked and the projector flicked on. “They found structure in the data, which they initially thought resembled some linguistic patterns, so they called me in. We’ve”, she indicated to her two colleagues, “looked at the data, and found it had linguistic patterns, but we couldn’t pinpoint it. So”, changing the slide, “we asked them to run a few more tests on the same number, to see what results we got.” The chart showed a time series graph, with something labeled “linguistic complexity” on one axis. It was increasing.
+
+“Ok”, Sonia stared at the screen. “It’s increasing in complexity, but what’s that mean? Did you find some local cause? Does it match up with any language?”
+
+One of Victorias colleagues stirred uncomfortably. “It’s not quite that simple.” She changed slides again. “We tried some techniques to discover the underlying grammar and syntax rules in the data. We were hoping it would be some known language that we could then link to something. Radio transmission, Satellite transmission, anything. We didn’t find anything. It kept getting more complicated. Then, yesterday it suddenly became very simple. It just sent one result.” She changed the slide - it just had the word “stop” on it.
+
+“Stop?” Patrick said. “Stop what?”
+
+“We didn’t know. We ran the test in a loop overnight, and the resulting value was just “Stop”. After a handful of attempts, it said “Please stop.” Then, and she changed slides, “it said this.”
+
+Everyone looked up.
+
+“We know you’re outside. Who are you?”

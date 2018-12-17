@@ -1,0 +1,46 @@
+Screaming into the Void
+The pick-up truck rattled as it drove along the unfinished road. Sarah had saved up enough to buy some land in the hills and a small house surrounded by woodland. Her parents had grown up nearby, and she felt drawn back there whenever life got a little too stressful. About a mile away from the house was a metal lattice tower and a small stone shrine. Her parents had been cremated, and when she first returned home she had built them both a permanent place to rest.
+
+…
+
+Sarah and her mother grew up in a small house in the city. Her parents moved when she was pregnant so her father could start a new job, but her father died in a car accident just before she was born. Her mother struggled alone to raise a daughter by herself.
+
+Whenever she showed interest in something, her mother would find a way to let her explore it. There was never any pressure - if she wanted to try something, she could. It was hundreds of little things like this which shaped her.
+
+…
+
+On top of the metal lattice work was an antenna dish, pointing upward to the sky. She had designed her own transmitter and chosen a set of frequencies that hopefully wouldn’t get her found. It would only transmit very periodically and in very short bursts. Two small solar arrays were on either side of the stone shrine with a small metallic box storing the transmitter and batteries. All that was left today was to connect the transmitter and power it on.
+
+…
+
+One time she pulled apart the family radio to see how it worked, but couldn’t figure out how to put it back together. It was the last of the AM-only valve radios that was kept in good working order. Once she had opened it up and pulled out all the valves, she couldn’t figure out which ones went where. Instead of being punished, her mother sat down with her and showed her how it worked; she helped her learn how to read the circuit diagram and drew out where each valve went so if she wanted to pull it apart again, she wouldn’t have any trouble putting it back together.
+
+When she showed an interest in computers, her mother found a broken Commodore being discarded as parts, and kept her eye out for enough working pieces to make it whole. They learned programming together, writing small games in the evenings and puzzles to help Sarah with her schoolwork.
+
+…
+
+The transmitter had been tested on her workbench and the solar cells had been charging the batteries for the shrine over the last few days. She screwed in the transmitter and hooked up power - all worked as she expected. She connected a test receiver and attenuators to the transmitter output to verify that it was outputting correctly and that worked as well. The cabling to the antenna at the top of the tower was already installed and she had tested that earlier. She screwed in the transmitter into the antenna cabling and turned on the test transmitter.
+
+…
+
+She found herself more and more interested in ham radio. The idea of being able to hear someone on the other side of the world fascinated her, and unlike the internet, it didn’t require anyone in between giving her a helping hand. Her mother had grown up around radio and found her own fathers shortwave radio set, so they sat down one evening and tried to make it work. It was an old valve radio which, unlike the AM radio she knew well, was in a hopeless state of disrepair. They both tried to fix it and eventually discovered two valves were bad and they couldn’t find spares. It was enough to keep her interested, so they went to the next ham radio meetup in the nearby town. They weren’t the only women there, but she was by far the youngest of the bunch. A handful of older women quickly shielded Sarah from the rest of the men and showed her the basics. She left the meetup with a ham radio test study guide, a couple of pointers for where to find cheap ham radio kit, and an ongoing invitation from her now mentors to four households nearby. Sarah passed her ham licence the next month, and started saving for her own radio shortly after.
+
+…
+
+Her mother fell ill when she was in her final year of high school. The cancer had started slow and wasn’t picked up until she started having trouble holding down food. She had been working two jobs to save up enough to send Sarah to college, and had tried to ignore it. Sarah spent months studying classwork from her mothers hospital bed, but her mother died only a few days before she graduated.
+
+…
+
+The college funds were almost gone - it became their only source of income when her mothers savings ran out. Sarah realised her life had changed and everything about it scared her - her college plans were lost, her mother was gone and there was nothing left for her. She spent a few weeks shut in at home, reading whatever books she could find at home and avoiding everyone around her, but everything would eventually remind her of her mother. She eventually snapped - she packed up a bag with a few belongings, grabbed her laptop, locked the house up and got on the next bus out of town.
+
+…
+
+The transmitter was working and sending a simple calibration signal, but she couldn’t receive anything on her test receiver. She decided the problem must be up near the antenna mount or the antenna itself. She grabbed the test receiver and climbed the tower to see what was the matter. The cabling worked fine - but the antenna mount feeding the horn was not working right. She grumbled to herself - there was a spare, but it was being used as a makeshift antenna mount on her truck. She climbed down, powered everything down again and began the walk back.
+
+…
+
+Sarah was lucky. She didn’t have much money, but she did make friends online. Everyone in her home town only wondered when she was getting married and having children. Her friends were science fiction nerds mostly the product of the video game revolution and brought up on the internet and they had all migrated to California. She eventually found her way there, found an introductory programming job and put up with the bullshit from her coworkers long enough to apply for a college scholarship. Five years later she had her degree in computer science, and three years again later she had a second degree in electrical engineering. She landed a job working as an electrical engineer - computer science was fun, but programming had become increasingly stressful with long hours and generally unpleasant coworkers. She found that companies in the south bay were after smart RF engineers and didn’t hire “brogrammers”. This worked for her.
+
+…
+
+She climbed the tower again, this time with the replacement antenna parts. She pulled off the broken mount and cable attachment and replaced them with one hand, whilst steadying herself against the tower with her other. Satisfied with her work, she finally attached the antenna horn and began climbing down. She saw a thunderstorm in the distance. It shouldn’t be a problem, she thought, hoping it would pass to the south of her and not damage things so quickly after she finished it. She returned to the ground and gave everything a final check. The solar cells were online and working well, the batteries were being charged, and the transmitter was ready. She finally flipped the main power on. It quickly hummed to life, all her thoughts, all her anguish, all her suffering, all her loneliness, a single voice screaming into the voice - “Hi mum. It’s me, Sarah. I love you. Please come home.”
